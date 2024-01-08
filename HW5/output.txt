@@ -1,0 +1,28 @@
+train_x.shape: (10800, 1024)
+train_y.shape: (10800, 36)
+Wlayer1
+(1024, 64)
+blayer1
+(64,)
+Woutput
+(64, 36)
+boutput
+(36,)
+itr: 00 	 loss: 68.70 	 acc : 0.08
+itr: 02 	 loss: 57.47 	 acc : 0.39
+itr: 04 	 loss: 48.13 	 acc : 0.51
+itr: 06 	 loss: 41.92 	 acc : 0.56
+itr: 08 	 loss: 37.71 	 acc : 0.60
+itr: 10 	 loss: 34.78 	 acc : 0.63
+itr: 12 	 loss: 32.66 	 acc : 0.65
+itr: 14 	 loss: 31.05 	 acc : 0.67
+itr: 16 	 loss: 29.77 	 acc : 0.68
+itr: 18 	 loss: 28.69 	 acc : 0.69
+itr: 20 	 loss: 27.77 	 acc : 0.70
+itr: 22 	 loss: 26.94 	 acc : 0.71
+itr: 24 	 loss: 26.20 	 acc : 0.72
+itr: 26 	 loss: 25.53 	 acc : 0.73
+itr: 28 	 loss: 24.91 	 acc : 0.73
+itr: 30 	 loss: 24.33 	 acc : 0.74
+itr: 32 	 loss: 23.80 	 acc : 0.75
+itr: 34 	 loss: 23.31 	 acc : 0.75
